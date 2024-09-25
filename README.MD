@@ -6,6 +6,6 @@
 
 #### ⭐ If you find this project useful, please consider giving it a star! ⭐
 
-<a href="https://github.com/limbonux/SmartCryptoFarmBot⁩/stargazers"><img align="center" src="https://raw.githubusercontent.com/limbonux/SmartCryptoFarmBot⁩/refs/heads/main/web/public_html/images/github_star.png" alt="github_star"/></a>
+<a href="https://github.com/limbonux/SmartCryptoFarmBot⁩/stargazers"><img align="center" src="https://raw.githubusercontent.com/limbonux/SmartHamsterKombatBot/main/github_star.png" alt="github_star"/></a>
 
 ---
