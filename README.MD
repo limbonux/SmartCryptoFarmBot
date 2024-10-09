@@ -23,3 +23,10 @@
 Overall, the MasterCryptoFarmBot project is designed to be a comprehensive solution for Air-Drop farming. It provides a seamless and efficient way to manage multiple Telegram bots in one place, maximizing your Air-Drop earnings with ease. Avoid the hassle of searching for new bots, installing them manually, and updating them individually. With MasterCryptoFarmBot, you can do it all with just one click.
 
 ---
+<hr>
+
+💵 If you're a fan of our project and want to support us, consider donating crypto. Your support will help us improve and expand, providing even more value to our users. Thank you for your generosity! 💵
+
+TON:
+`UQATbChkxTXjNepmCOKKH9Hv5t2cnkGfQOBF-w159gJVWJGQ`
+
